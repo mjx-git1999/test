@@ -6,6 +6,7 @@
 ![image](https://github.com/mjx-git1999/test/blob/master/ImagesforReadme/xiangqing.PNG)
 ![image](https://github.com/mjx-git1999/test/blob/master/ImagesforReadme/gouwuche.PNG)
 ![image](https://github.com/mjx-git1999/test/blob/master/ImagesforReadme/gerenzhongxin.PNG)
+![image](https://github.com/mjx-git1999/test/blob/master/ImagesforReadme/zhuce.PNG)
 # vuepro1
 
 > A Vue.js project
