@@ -2,7 +2,8 @@
 # vuepro
 =======
 # vuepro1
-
+截图
+![image](https://github.com/mjx-git1999/test/blob/master/ImagesforReadme/shouye.PNG)
 > A Vue.js project
 
 ## Build Setup
